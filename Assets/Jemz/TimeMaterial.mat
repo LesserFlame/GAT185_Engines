@@ -84,21 +84,21 @@ Material:
     - _EffectSmoothing: 0
     - _EffectSpeed: 0
     - _EffectStartTime: 0
-    - _FullScreenInensity: 0.123314455
+    - _FullScreenInensity: 3.0958482e-13
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _HueOffset: 0.044996772
+    - _HueOffset: 0
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Saturation: 0.99999934
+    - _Saturation: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Spread: 0.00008457779
+    - _Spread: 0
     - _SrcBlend: 5
     - _Surface: 1
     - _UVSec: 0
